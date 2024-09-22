@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap:  https://people.improve.dk/sitemap.xml
