@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-sitemap:  https://people.improve.dk/sitemap.xml
+sitemap:  https://romanobet.principlesofchaos.org/sitemap.xml
